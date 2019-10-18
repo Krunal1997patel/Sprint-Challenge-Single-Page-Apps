@@ -37,3 +37,20 @@ main {
 header h1 {
   text-align: center;
 }
+
+.active{
+  color: green;
+  text-decoration:none;
+}
+
+.search-form{
+  text-align: center;
+  margin: 2% 0 1px;
+}
+
+.text{
+  padding: 9px 14px 9px 10px;
+  border-radius: 12px;
+  border: 2px solid green;
+  outline: none;
+}
